@@ -1,0 +1,11 @@
+NIT1001|Yashvith|5000.0
+NIT1002|Sumanth L Shetty|8000.0
+NIT1003|Tanmaya Hegde|2995.0
+NIT1004|Pratham S Shetty|2.0
+NIT1005|Shreesha|5000.0
+NIT1006|sushanth|1000.0
+NIT1007|vishwas|1000.0
+NIT1008|Sumanyu|400.0
+NIT1009|Naman Shetty|4000.0
+NIT1010|reewan|1000.0
+NIT1011|Abdul|2000.0
